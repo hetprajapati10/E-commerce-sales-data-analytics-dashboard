@@ -1,2 +1,35 @@
-# E-commerce-sales-data-analytics-dashboard
-E-Commerce Sales Analytics Dashboard built with Streamlit, Pandas, and Plotly. This interactive dashboard provides insights into sales trends, pricing, discounts, customer ratings, and product performance. Features include dynamic filters, modern UI with custom CSS, and multiple visualizations for real-world data analysis
+# 🚀 E-Commerce Sales Analytics Dashboard
+
+An interactive and visually rich dashboard built using **Streamlit, Plotly, and Python** to analyze e-commerce sales data.
+
+## 🔥 Features
+- 📊 Sales & Revenue Analysis  
+- 🛍️ Product Insights  
+- 💰 Pricing & Discount Trends  
+- ⭐ Ratings & Reviews Analysis  
+- 📦 Delivery & Logistics Insights  
+- 📈 Sales Trend Over Time  
+- 🎯 Category Insights  
+
+## 🎨 UI Highlights
+- Futuristic glassmorphism design  
+- Custom CSS styling  
+- Responsive layout  
+- Interactive filters  
+
+## 🛠️ Tech Stack
+- Python  
+- Streamlit  
+- Pandas  
+- Plotly  
+
+## ▶️ Run Locally
+pip install -r requirements.txt
+streamlit run main.py
+
+## 📁 Dataset
+E-commerce dataset with 80,000+ records and 25+ features.
+
+---
+
+💡 This project demonstrates real-world data analysis and dashboard development skills.
